@@ -10,6 +10,7 @@
 
 body, html {
   width: 100%;
+  height: max-content;
   margin: 0;
   padding: 0;
   overflow-x: hidden;
@@ -1144,4 +1145,3 @@ tbody tr:hover {
     padding-top: 2px;
   }
 }
-
